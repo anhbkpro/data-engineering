@@ -37,7 +37,7 @@ df = df\
 df.show()
 
 # Step 3: Save
-# ----
+# --------
 #
 # The connection URL, assuming your PostgreSQL instance runs locally on the
 # 5435 port, and the database we use is "mydb"
